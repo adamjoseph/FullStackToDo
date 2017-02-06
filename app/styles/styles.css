@@ -1,0 +1,11 @@
+#mainContainer {
+	width: 45%;
+	display: inline-block;
+}
+
+#secondContainer {
+	width: 35%;
+	float: right;
+	margin-top: 30px;
+	margin-right: 100px;
+}
